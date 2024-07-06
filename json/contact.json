@@ -1,0 +1,49 @@
+{
+    "mainBranch": {
+        "name": "Main Branch",
+        "address": "8144 Al Qaisoumah St., Al Faysaliyah District, Jeddah, Saudi Arabia",
+        "phone": "056 235 4521",
+        "locationLink": "#",
+        "mapEmbedUrl": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d14841.108938900652!2d39.1682135!3d21.5750989!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2ssa!4v1719111946626!5m2!1sen!2ssa"
+    },
+    "branches": [
+        {
+            "name": "Riyadh",
+            "address": "Soultana District, Riyadh, Saudi Arabia",
+            "phone": "056 047 3485",
+            "locationLink": "#"
+        },
+        {
+            "name": "Yanbu",
+            "address": "Al Waha District, Yanbu Al Bahr, Saudi Arabia",
+            "phone": "054 195 1887",
+            "locationLink": "#"
+        },
+        {
+            "name": "Madinah Al Munawarrah",
+            "address": "8032 Al Qasim ibn Al-Fath, 5315 Al-Ahn District, Madinah Al Munawarrah, Saudi Arabia",
+            "phone": "054 761 5943",
+            "locationLink": "#"
+        },
+        {
+            "name": "Khamis Mushait",
+            "address": "Atud District, Khamis Mushait, Saudi Arabia",
+            "phone": "058 264 6618",
+            "locationLink": "#"
+        },
+        {
+            "name": "Gizan",
+            "address": "7896 Al Rawdah District, Gizan, Saudi Arabia",
+            "phone": "053 247 6209",
+            "locationLink": "#"
+        },
+        {
+            "name": "Najran",
+            "address": "Al Fahad District, Najran, Saudi Arabia",
+            "phone": "054 243 0360",
+            "locationLink": "#"
+        }
+    ]
+    
+   
+}

@@ -1,0 +1,80 @@
+
+:root {
+  --color-blue: #007bff;
+  --color-red: #dc3545;
+  --color-yellow: #ffc107;
+  --color-yellow-text-bg: #fdffef;
+  --color-white-navbar: #f8f9fa;
+
+  --global-font-size: 1rem;
+}
+
+*,
+*::before,
+*::after{
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+.rubikFont {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+.rubik-300 {
+    font-weight: 300;
+  }
+  
+  .rubik-400 {
+    font-weight: 400;
+  }
+  
+  .rubik-500 {
+    font-weight: 500;
+  }
+
+/* Example usage */
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+ }
+
+.container {
+  height: auto;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+ .main {
+  padding: 20px;
+  text-align: center;
+}
+
+
+main {
+  margin-top: .1rem;
+  width: 100%;
+  min-height: 62vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+  
+}
+
+section{
+  padding-bottom: 5rem;
+}

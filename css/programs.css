@@ -1,0 +1,68 @@
+:root {
+    --primary-color: #082ac1;
+    --secondary-color: #000000;
+    --tercery-color: #0000009f;
+    --font-family: 'Arial, sans-serif';
+  }
+  
+  /* body {
+    font-family: var(--font-family);
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+  } */
+  
+  #programsSection {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .programTitle {
+    color: var(--primary-color);
+    margin-bottom: 1.5rem;
+  }
+  
+  .programsList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    color: var(--tercery-color);
+    line-height: 1.5rem;
+  }
+  
+  .programCard {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 1rem;
+    padding: 1rem;
+    text-align: left;
+    transition: transform 0.3s;
+    width: calc(50% - 2rem);
+  }
+  
+  .programCard:hover {
+    transform: scale(1.05);
+  }
+  
+  .programCard h3 {
+    color: var(--secondary-color);
+    margin-bottom: 0.5rem;
+  }
+  
+  @media (max-width: 768px) {
+    .programCard {
+      width: calc(100% - 2rem);
+    }
+  }
+  
+  @media (max-width: 480px) {
+    #programsSection {
+      padding: 1rem;
+    }
+  }
+  

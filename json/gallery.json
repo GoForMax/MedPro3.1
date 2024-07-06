@@ -1,0 +1,60 @@
+{
+    "General": [
+        { "id": 1, "path": "../img/gallery/general/image1.jpeg", "description": "Image 1 description" },
+        { "id": 2, "path": "../img/gallery/general/image2.jpeg", "description": "Image 2 description" },
+        { "id": 3, "path": "../img/gallery/general/image3.jpeg", "description": "Image 3 description" },
+        { "id": 4, "path": "../img/gallery/general/image4.jpeg", "description": "Image 4 description" },
+        { "id": 5, "path": "../img/gallery/general/image5.jpeg", "description": "Image 5 description" },
+        { "id": 6, "path": "../img/gallery/general/image6.jpeg", "description": "Image 6 description" },
+        { "id": 7, "path": "../img/gallery/general/image7.jpeg", "description": "Image 7 description" },
+        { "id": 8, "path": "../img/gallery/general/image8.jpeg", "description": "Image 8 description" },
+        { "id": 9, "path": "../img/gallery/general/image9.jpeg", "description": "Image 9 description" },
+        { "id": 10, "path": "../img/gallery/general/image10.jpeg", "description": "Image 10 description" },
+        { "id": 11, "path": "../img/gallery/general/image11.jpeg", "description": "Image 11 description" },
+        { "id": 12, "path": "../img/gallery/general/image12.jpeg", "description": "Image 12 description" },
+        { "id": 13, "path": "../img/gallery/general/image13.jpeg", "description": "Image 13 description" },
+        { "id": 14, "path": "../img/gallery/general/image14.jpeg", "description": "Image 14 description" },
+        { "id": 15, "path": "../img/gallery/general/image15.jpeg", "description": "Image 15 description" },
+        { "id": 16, "path": "../img/gallery/general/image16.jpeg", "description": "Image 16 description" },
+        { "id": 17, "path": "../img/gallery/general/image17.jpeg", "description": "Image 17 description" },
+        { "id": 18, "path": "../img/gallery/general/image18.jpeg", "description": "Image 18 description" },
+        { "id": 19, "path": "../img/gallery/general/image19.jpeg", "description": "Image 19 description" },
+        { "id": 20, "path": "../img/gallery/general/image20.jpeg", "description": "Image 20 description" },
+        { "id": 21, "path": "../img/gallery/general/image21.jpeg", "description": "Image 21 description" },
+        { "id": 22, "path": "../img/gallery/general/image22.jpeg", "description": "Image 22 description" },
+        { "id": 23, "path": "../img/gallery/general/image23.jpeg", "description": "Image 23 description" },
+        { "id": 24, "path": "../img/gallery/general/image24.jpeg", "description": "Image 24 description" },
+        { "id": 25, "path": "../img/gallery/general/image25.jpeg", "description": "Image 25 description" }        
+
+    ],
+
+    "BLS": [
+        { "id": 1, "path": "../img/gallery/bls/bls1.jpg", "description": "BLS Image 1 description" },
+        { "id": 2, "path": "../img/gallery/bls/bls2.jpg", "description": "BLS Image 2 description" },
+        { "id": 3, "path": "../img/gallery/bls/bls3.jpg", "description": "BLS Image 3 description" },
+        { "id": 4, "path": "../img/gallery/bls/bls4.jpg", "description": "BLS Image 4 description" },
+        { "id": 5, "path": "../img/gallery/bls/bls5.jpg", "description": "BLS Image 5 description" },
+        { "id": 6, "path": "../img/gallery/bls/bls6.jpg", "description": "BLS Image 6 description" },
+        { "id": 7, "path": "../img/gallery/bls/bls7.jpg", "description": "BLS Image 7 description" },
+        { "id": 8, "path": "../img/gallery/bls/bls8.jpg", "description": "BLS Image 8 description" },
+        { "id": 9, "path": "../img/gallery/bls/bls9.jpg", "description": "BLS Image 9 description" },
+        { "id": 10, "path": "../img/gallery/bls/bls10.jpg", "description": "BLS Image 10 description" }
+
+    ],
+
+    "Riyadh": [
+        { "id": 1, "path": "../img/gallery/riyadh/Riyadh1.jpg", "description": "Riyadh Image 1 description" },
+        { "id": 2, "path": "../img/gallery/riyadh/Riyadh2.jpg", "description": "Riyadh Image 2 description" },
+        { "id": 3, "path": "../img/gallery/riyadh/Riyadh3.jpg", "description": "Riyadh Image 3 description" },
+        { "id": 4, "path": "../img/gallery/riyadh/Riyadh4.jpg", "description": "Riyadh Image 4 description" },
+        { "id": 5, "path": "../img/gallery/riyadh/Riyadh5.jpg", "description": "Riyadh Image 5 description" },
+        { "id": 6, "path": "../img/gallery/riyadh/Riyadh6.jpg", "description": "Riyadh Image 6 description" },
+        { "id": 7, "path": "../img/gallery/riyadh/Riyadh7.jpg", "description": "Riyadh Image 7 description" },
+        { "id": 8, "path": "../img/gallery/riyadh/Riyadh8.jpg", "description": "Riyadh Image 8 description" },
+        { "id": 9, "path": "../img/gallery/riyadh/Riyadh9.jpg", "description": "Riyadh Image 9 description" }
+        
+
+    ]
+    
+}
+

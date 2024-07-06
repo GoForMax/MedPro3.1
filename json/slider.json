@@ -1,0 +1,10 @@
+{
+    "images": [
+        { "id": 1, "src": "img/slider/bg1.jpg" },
+        { "id": 2, "src": "img/slider/bg2.jpg" },
+        { "id": 3, "src": "img/slider/bg3.jpg" },
+        { "id": 4, "src": "img/slider/bg4.jpg" },
+        { "id": 5, "src": "img/slider/bg5.jpg" }
+        
+    ]
+}

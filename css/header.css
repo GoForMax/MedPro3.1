@@ -1,0 +1,246 @@
+:root {
+    --color-blue: #007bff;
+    --color-red: #dc3545;
+    --color-yellow: #ffc107;
+    --color-yellow-text-bg: #f8f9fa;
+    --color-white-navbar: rgb(236, 236, 236);
+    --header-bg-start: #3a6ea1;
+    --header-bg-end: #ececec;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* body {
+    font-family: "Rubik", sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+.header {
+    background: linear-gradient(to bottom, var(--header-bg-start), var(--header-bg-end));
+    position: sticky;
+    top: 0;
+    box-shadow: 0 2px 4px rgba(112, 40, 40, 0.1);
+    z-index: 100;
+    padding: 0.5rem;
+}
+
+.header-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    padding: 0 20px;
+}
+
+.header-logo img,
+.vision-2030-logo img {
+    width: 130px;
+    height: auto;
+}
+
+.header-text {
+    text-align: center;
+    flex: 1;
+}
+
+#header-title {
+    font-weight: bolder;
+    margin: 0.2rem 0;
+    font-size: clamp(1.1rem, 2vw, 2.2rem);
+}
+
+#header-subtitle {
+    color: #e9e3e3;
+    margin: 0.2rem 0;
+    font-size: clamp(1.1rem, 2vw, 1.5rem);
+}
+
+.main-navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.hamburger {
+    display: none;
+    background: none;
+    border: none;
+    font-size: 2rem;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
+    height: 40px;
+    margin: 0;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
+
+.nav-list {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.nav-list li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nav-list li a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    color: #000;
+    font-size: 1.2rem;
+    transition: color 0.3s ease;
+}
+
+.nav-list li a:hover {
+    color: var(--color-blue);
+}
+
+.nav-list li img {
+    width: 50px;
+    height: auto;
+    margin-bottom: 5px;
+}
+
+.hamburger {
+    position: absolute;
+}
+
+.hamburger .icon {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-top: 1rem;
+}
+
+.hamburger .icon::before {
+    content: "☰";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.hamburger.is-active .icon::before {
+    z-index: 9999999999;
+    content: "✖";
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+    .header-content {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .header-logo img,
+    .vision-2030-logo img {
+        width: 80px;
+    }
+
+    .header-title {
+        font-size: 1.2rem;
+    }
+
+    .header-subtitle {
+        font-size: 0.9rem;
+        color: #1f4cad;
+    }
+
+    .main-navbar {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    .hamburger {
+        display: block;
+        position: absolute;
+        right: 20px;
+        top: -13rem;
+    }
+
+    .nav-list {
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        width: 100vw;
+        height: auto;
+        border-radius: 10px;
+        border: 1px solid skyblue;
+        background-color: rgba(236, 236, 236, 0.99);
+        position: absolute;
+        top: -15.35rem;
+        left: -1rem;
+        z-index: 1;
+        padding-bottom: 1rem;
+        
+    }
+
+    .nav-list.active {
+        display: flex;
+    }
+
+    .nav-list li {
+        width: 100%;
+        padding: 0;
+    }
+
+    .nav-list li img {
+        width: 80px;
+        height: auto;
+    }
+
+    .nav-list li a {
+        width: 100%;
+        text-align: center;
+    }
+
+    .header {
+        position: relative;
+    }
+}
+
+@media (min-width: 769px) {
+    .header-title {
+        font-size: 1.4rem;
+    }
+
+    .header-subtitle {
+        font-size: 1.2rem;
+    }
+
+    .nav-list {
+        justify-content: center;
+        justify-items: center;
+        align-items: center;
+        top: 0 !important;
+        height: auto;
+    }
+
+    .nav-list li {
+        width: auto;
+    }
+
+    .nav-list li a {
+        width: auto;
+        text-align: center;
+    }
+
+    .header {
+        position: sticky;
+    }
+}

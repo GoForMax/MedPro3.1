@@ -1,0 +1,33 @@
+/* Styles for 404 Page */
+
+.errorPage {
+    text-align: center;
+    padding: 100px 20px;
+    margin-top: 50px;
+}
+
+.errorPage h2 {
+    font-size: 3rem;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.errorPage p {
+    font-size: 1.25rem;
+    color: #777;
+    margin-bottom: 30px;
+}
+
+.homeButton {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.homeButton:hover {
+    background-color: #0056b3;
+}

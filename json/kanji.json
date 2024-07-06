@@ -1,0 +1,203 @@
+{
+    "level1": {
+      "kanji_list": [
+        {
+          "id": 1,
+          "kanji": "人",
+          "meaning": "person",
+          "onyomi_readings": ["にん", "じん"],
+          "onyomi_example_words": ["人間（にんげん）- human", "外人（がいじん）- foreigner"],
+          "kunyomi_readings": ["ひと"],
+          "kunyomi_example_words": ["人（ひと）- person"]
+        },
+        {
+          "id": 2,
+          "kanji": "日",
+          "meaning": "day, sun",
+          "onyomi_readings": ["にち", "じつ"],
+          "onyomi_example_words": ["日本（にほん）- Japan", "毎日（まいにち）- every day"],
+          "kunyomi_readings": ["ひ"],
+          "kunyomi_example_words": ["日（ひ）- day", "日曜日（にちようび）- Sunday"]
+        },
+        {
+          "id": 3,
+          "kanji": "一",
+          "meaning": "one",
+          "onyomi_readings": ["いち"],
+          "onyomi_example_words": ["一つ（ひとつ）- one (thing)", "一番（いちばん）- the first"],
+          "kunyomi_readings": ["ひと（つ）"],
+          "kunyomi_example_words": ["一人（ひとり）- one person", "一つ（ひとつ）- one (thing)"]
+        },
+        {
+          "id": 4,
+          "kanji": "大",
+          "meaning": "big",
+          "onyomi_readings": ["だい", "たい"],
+          "onyomi_example_words": ["大学（だいがく）- university", "大人（おとな）- adult"],
+          "kunyomi_readings": ["おお（きい）"],
+          "kunyomi_example_words": ["大きい（おおきい）- big", "大好き（だいすき）- love (very much)"]
+        },
+        {
+          "id": 5,
+          "kanji": "小",
+          "meaning": "small",
+          "onyomi_readings": ["しょう"],
+          "onyomi_example_words": ["小学校（しょうがっこう）- elementary school", "小説（しょうせつ）- novel"],
+          "kunyomi_readings": ["ちい（さい）"],
+          "kunyomi_example_words": ["小さい（ちいさい）- small", "小川（おがわ）- stream"]
+        },
+        {
+          "id": 6,
+          "kanji": "中",
+          "meaning": "middle, inside",
+          "onyomi_readings": ["ちゅう"],
+          "onyomi_example_words": ["中国（ちゅうごく）- China", "中学生（ちゅうがくせい）- middle school student"],
+          "kunyomi_readings": ["なか"],
+          "kunyomi_example_words": ["中（なか）- inside", "中央（ちゅうおう）- center"]
+        },
+        {
+          "id": 7,
+          "kanji": "本",
+          "meaning": "book",
+          "onyomi_readings": ["ほん"],
+          "onyomi_example_words": ["本屋（ほんや）- bookstore", "教科書（きょうかしょ）- textbook"],
+          "kunyomi_readings": ["もと"],
+          "kunyomi_example_words": ["本（もと）- origin", "本当（ほんとう）- true"]
+        },
+        {
+          "id": 8,
+          "kanji": "山",
+          "meaning": "mountain",
+          "onyomi_readings": ["さん"],
+          "onyomi_example_words": ["山田（やまだ）- Yamada (surname)", "山登り（やまのぼり）- mountain climbing"],
+          "kunyomi_readings": ["やま"],
+          "kunyomi_example_words": ["山（やま）- mountain", "山々（やまやま）- mountains"]
+        },
+        {
+          "id": 9,
+          "kanji": "川",
+          "meaning": "river",
+          "onyomi_readings": ["せん"],
+          "onyomi_example_words": ["川口（かわぐち）- Kawaguchi (place name)", "川下（かわしも）- downstream"],
+          "kunyomi_readings": ["かわ"],
+          "kunyomi_example_words": ["川（かわ）- river", "川辺（かわべ）- riverside"]
+        },
+        {
+          "id": 10,
+          "kanji": "田",
+          "meaning": "rice field",
+          "onyomi_readings": ["でん"],
+          "onyomi_example_words": ["田中（たなか）- Tanaka (surname)", "田舎（いなか）- countryside"],
+          "kunyomi_readings": ["た"],
+          "kunyomi_example_words": ["田（た）- rice field", "田畑（たはた）- fields of rice and crops"]
+        }
+      ],
+      "story": "にちようびにかわでほんをよんでいると、やまのちかくでおおきいひとをみかけました。そのひとはたなかさんでした。たなかさんは、いちばんおおきいかわのとなりのちいさいかわのほとりでさんぽしていました。",
+      "story_translation": "On Sunday, while reading a book by the river, I saw a tall person near the mountains. That person was Mr. Tanaka. Mr. Tanaka was walking by the small river next to the largest river.",
+      "fact": "やまのかわのとなりにちいさいかわがあります。ほんをよむことがすきなひとはかわのほとりでよくよんでいます。たなかさんは、おおきいほんがすきです。かわのちかくにちいさいいえにすんでいます。やまにいきます。おおきいきぐちがいっぱいです。",
+      "fact_translation": "Next to the mountain river, there is a small river. People who like to read often read by the river. Mr. Tanaka likes big books. He lives in a small house near the river. He goes to the mountain. There are many large tree stumps.",
+      "news": "ほんやでほんをかいます。ちゅうごくのじんはにぎやかです。かわのみずはきれいです。",
+      "news_translation": "I buy books at the bookstore. Chinese people are lively. The water in the river is clean."
+    },
+    "level2": {
+      "kanji_list": [
+        {
+          "id": 11,
+          "kanji": "木",
+          "meaning": "tree",
+          "onyomi_readings": ["もく", "ぼく"],
+          "onyomi_example_words": ["木曜日（もくようび）- Thursday", "木材（もくざい）- lumber"],
+          "kunyomi_readings": ["き"],
+          "kunyomi_example_words": ["木（き）- tree", "木陰（こかげ）- shade of a tree"]
+        },
+        {
+          "id": 12,
+          "kanji": "金",
+          "meaning": "gold, money",
+          "onyomi_readings": ["きん", "こん"],
+          "onyomi_example_words": ["金曜日（きんようび）- Friday", "金属（きんぞく）- metal"],
+          "kunyomi_readings": ["かね"],
+          "kunyomi_example_words": ["金（かね）- money", "お金（おかね）- money"]
+        },
+        {
+          "id": 13,
+          "kanji": "土",
+          "meaning": "soil, earth",
+          "onyomi_readings": ["ど", "と"],
+          "onyomi_example_words": ["土曜日（どようび）- Saturday", "土地（とち）- land"],
+          "kunyomi_readings": ["つち"],
+          "kunyomi_example_words": ["土（つち）- soil", "土手（どて）- embankment"]
+        },
+        {
+          "id": 14,
+          "kanji": "月",
+          "meaning": "moon, month",
+          "onyomi_readings": ["げつ", "がつ"],
+          "onyomi_example_words": ["月曜日（げつようび）- Monday", "月光（げっこう）- moonlight"],
+          "kunyomi_readings": ["つき"],
+          "kunyomi_example_words": ["月（つき）- moon", "月見（つきみ）- moon viewing"]
+        },
+        {
+          "id": 15,
+          "kanji": "火",
+          "meaning": "fire",
+          "onyomi_readings": ["か"],
+          "onyomi_example_words": ["火曜日（かようび）- Tuesday", "火山（かざん）- volcano"],
+          "kunyomi_readings": ["ひ"],
+          "kunyomi_example_words": ["火（ひ）- fire", "火事（かじ）- fire (disaster)"]
+        },
+        {
+          "id": 16,
+          "kanji": "水",
+          "meaning": "water",
+          "onyomi_readings": ["すい"],
+          "onyomi_example_words": ["水曜日（すいようび）- Wednesday", "水族館（すいぞくかん）- aquarium"],
+          "kunyomi_readings": ["みず"],
+          "kunyomi_example_words": ["水（みず）- water", "水道（すいどう）- water supply"]
+        },
+        {
+          "id": 17,
+          "kanji": "花",
+          "meaning": "flower",
+          "onyomi_readings": ["か"],
+          "onyomi_example_words": ["花瓶（かびん）- vase", "花火（はなび）- fireworks"],
+          "kunyomi_readings": ["はな"],
+          "kunyomi_example_words": ["花（はな）- flower", "花見（はなみ）- flower viewing"]
+        },
+        {
+          "id": 18,
+          "kanji": "犬",
+          "meaning": "dog",
+          "onyomi_readings": ["けん"],
+          "onyomi_example_words": ["番犬（ばんけん）- guard dog", "愛犬（あいけん）- pet dog"],
+          "kunyomi_readings": ["いぬ"],
+          "kunyomi_example_words": ["犬（いぬ）- dog", "子犬（こいぬ）- puppy"]
+        },
+        {
+          "id": 19,
+          "kanji": "車",
+          "meaning": "car",
+          "onyomi_readings": ["しゃ"],
+          "onyomi_example_words": ["電車（でんしゃ）- train", "自転車（じてんしゃ）- bicycle"],
+          "kunyomi_readings": ["くるま"],
+          "kunyomi_example_words": ["車（くるま）- car", "車輪（しゃりん）- wheel"]
+        },
+        {
+          "id": 20,
+          "kanji": "空",
+          "meaning": "sky",
+          "onyomi_readings": ["くう"],
+          "onyomi_example_words": ["空港（くうこう）- airport", "空気（くうき）- air"],
+          "kunyomi_readings": ["そら", "あ", "から"],
+          "kunyomi_example_words": ["空（そら）- sky", "空（から）- empty"]
+        }
+      ],
+      "story": "たなかさんはにちようびにかわでやまをみました。おおきいやまはほんとうにうつくしいです。そのあと、かわべでひとりでほんをよみました。",
+      "story_translation": "Mr. Tanaka saw the mountain by the river on Sunday. The big mountain is really beautiful. After that, he read a book alone by the river.",
+      "fact": "にほんはふじさんがあります。ふじさんはにほんでいちばんたかいやまです。にほんごをべんきょうするひとがふえてきています。",
+      "fact_translation": "Japan has Mt. Fuji. Mt. Fuji is the tallest mountain in Japan. The number of people studying Japanese is increasing.",
+      "news": "きんようびにかわでおおきいかわがあふれました。たくさんのひとがかわのちかくであそんでいましたが、けがはありませんでした。",
+      "news_translation": "The big river overflowed on Friday. Many people were playing near the river, but there were no injuries."
+    }
+  }
+  

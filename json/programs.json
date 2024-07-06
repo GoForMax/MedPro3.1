@@ -1,0 +1,104 @@
+{
+    "diplomaPrograms": [
+      {
+        "diplomaId": 1,
+        "programName": "Patient Care Technician (PCT)",
+        "duration": "2 years",
+        "schedule": "Friday to Saturday from 8am to 4pm"
+      },
+      {
+        "diplomaId": 2,
+        "programName": "Nursing (Health) Assistant (NHA)",
+        "duration": "2 years",
+        "schedule": "Friday to Saturday from 8am to 4pm"
+      },
+      {
+        "diplomaId": 3,
+        "programName": "Patient Care Services (Bundled Nursing Assistant and Caregiver)",
+        "duration": "1 year",
+        "schedule": "Friday to Saturday from 8am to 4pm"
+      },
+      {
+        "diplomaId": 4,
+        "programName": "Health and Dispensing Services (Bundled Nursing Assistant and Pharmacy Assistant)",
+        "duration": "1 year",
+        "schedule": "Friday to Saturday from 8am to 4pm"
+      },
+      {
+        "diplomaId": 5,
+        "programName": "Health and Physical Rehabilitation Services (Bundled Nursing Assistant and Physiotherapy Assistant)",
+        "duration": "1 year",
+        "schedule": "Friday to Saturday from 8am to 4pm"
+      },
+      {
+        "diplomaId": 6,
+        "programName": "Health and Wellness Services (Bundled Nursing Assistant and Massage Therapy)",
+        "duration": "1 year",
+        "schedule": "Friday to Saturday from 8am to 4pm"
+      },
+      {
+        "diplomaId": 76,
+        "programName": "Health and Dental Care Services (Bundled in Nursing Assistant and Dental Aide/Assistant)",
+        "duration": "1 year",
+        "schedule": "..."
+      }
+
+    ],
+    "certificatePrograms": [
+      {
+        "certificateId": 1,
+        "programName": "Nurse Aide/Assistant",
+        "duration": "8 months",
+        "schedule": "Friday to Saturday from 8am to 4pm"
+      },
+      {
+        "certificateId": 2,
+        "programName": "Dental Aide/Assistant",
+        "duration": "8 months",
+        "schedule": "Friday to Saturday from 8am to 4pm"
+      },
+      {
+        "certificateId": 3,
+        "programName": "Caregiving (Homecare Aide)",
+        "duration": "6 months",
+        "schedule": "Friday to Saturday from 8am to 4pm"
+      },
+      {
+        "certificateId": 4,
+        "programName": "Pharmacy Aide/Assistant",
+        "duration": "6 months",
+        "schedule": "Friday to Saturday from 8am to 4pm"
+      },
+      {
+        "certificateId": 5,
+        "programName": "Physiotherapy Assistant",
+        "duration": "6 months",
+        "schedule": "Friday to Saturday from 8am to 4pm"
+      },
+      {
+        "certificateId": 6,
+        "programName": "Massage Therapy",
+        "duration": "3 months",
+        "schedule": "Friday to Saturday from 8am to 4pm"
+      },
+      {
+        "certificateId": 7,
+        "programName": "Microblading, Microshading and Eyebrows Tattooing",
+        "duration": "3 months",
+        "schedule": "Friday to Saturday from 8am to 4pm"
+      },
+      {
+        "certificateId": 8,
+        "programName": "Beauty Hair Dressing",
+        "duration": "3 months",
+        "schedule": "Friday to Saturday from 8am to 4pm"
+      },
+      {
+        "certificateId": 9,
+        "programName": "Nail Care, Extension and Arts",
+        "duration": "3 months",
+        "schedule": "Friday to Saturday from 8am to 4pm"
+      }
+    ]
+  }
+  

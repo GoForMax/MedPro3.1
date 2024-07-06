@@ -1,0 +1,113 @@
+
+#about{
+ line-height: 1.6;
+ padding: 2rem;
+}
+
+.section-wrapper {
+    background: #fff;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    animation: fadeIn 1.3s ease-in-out;
+}
+
+.section-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.section-header i {
+    font-size: 2rem;
+    color: #007BFF;
+    margin-right: 10px;
+}
+
+.section-header h2 {
+    font-size: 1.75rem;
+    color: #333;
+}
+
+.section-content p, .section-content ul {
+    margin: 10px 0;
+    padding-left: 2rem;
+}
+
+.whyList li{
+    padding-left: 2rem;
+}
+
+.section-content ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.section-content ul li {
+    margin: 5px 0;
+    padding-left: 2rem;
+}
+
+.section-content ul li i {
+    color: #4CAF50;
+    margin-right: 10px;
+}
+
+a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.know-more-btn {
+    position: relative;
+    bottom: 0;
+    background-color: #1083ee;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-left: 2rem;
+}
+
+.know-more-btn:hover {
+    background-color: #0056b3;
+}
+
+.contact-btn {
+    background-color: #4CAF50;
+    color: #fff;
+}
+
+.contact-btn:hover {
+    background-color: #388e3c;
+}
+
+/* Animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+/* Scroll effect */
+html {
+    scroll-behavior: smooth;
+}

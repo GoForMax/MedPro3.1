@@ -1,0 +1,33 @@
+{
+    "branches": [
+      {
+        "id": 1,
+        "branchName": "Main Branch",
+        "address": "123 Main St",
+        "city": "New York",
+        "contactNumber": "123-456-7890",
+        "email": "mainbranch@example.com",
+        "description": "The main branch in New York City"
+      },
+      {
+        "id": 2,
+        "branchName": "Branch 2",
+        "address": "456 Elm St",
+        "city": "Los Angeles",
+        "contactNumber": "987-654-3210",
+        "email": "branch2@example.com",
+        "description": "The branch in Los Angeles"
+      },
+      {
+        "id": 3,
+        "branchName": "Branch 3",
+        "address": "789 Oak St",
+        "city": "Chicago",
+        "contactNumber": "456-123-7890",
+        "email": "branch3@example.com",
+        "description": "The branch in Chicago"
+      }
+    ]
+  }
+  
+  

@@ -1,0 +1,48 @@
+/* styles.css */
+
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Arial, sans-serif;
+}
+
+.parallax-section, .regular-section {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.parallax-bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url('path-to-your-image.jpg') no-repeat center center;
+    background-size: cover;
+    transform: translateZ(-1px) scale(2);
+    z-index: -1;
+    height: 200%;
+    width: 100%;
+    will-change: transform;
+}
+
+.content {
+    position: relative;
+    z-index: 1;
+    color: white;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+.regular-section {
+    background-color: #f5f5f5;
+    color: #333;
+    padding: 20px;
+}
