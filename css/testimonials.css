@@ -23,7 +23,7 @@
 
 .testimonialsWrapper {
     overflow: hidden;
-    width: 90%;
+    max-width: 91%;
 }
 
 .testimonialsContainer {
@@ -102,5 +102,10 @@
 @media (max-width: 40rem) { /* 640px */
     .testimonialCard {
         flex: 1 0 calc(100% - 1.25rem); /* Show 1 testimonial */
+    }
+
+    .testimonialsWrapper {
+        overflow: hidden;
+        max-width: 80%;
     }
 }
