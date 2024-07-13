@@ -37,10 +37,16 @@
         "schedule": "Friday to Saturday from 8am to 4pm"
       },
       {
-        "diplomaId": 76,
+        "diplomaId": 7,
         "programName": "Health and Dental Care Services (Bundled in Nursing Assistant and Dental Aide/Assistant)",
         "duration": "1 year",
-        "schedule": "..."
+        "schedule": "Friday to Saturday from 8am to 4pm"
+      },
+      {
+        "diplomaId": 8,
+        "programName": "1 year in Health and Dental Care Services (Bundled in Nursing Assistant and Dental Aide/Assistant)",
+        "duration": "1 year",
+        "schedule": "Friday to Saturday from 8am to 4pm"
       }
 
     ],
